@@ -11,6 +11,6 @@ here you can find flutter application :
 
 https://github.com/mostafamdy/SkinCancerFlutter
 
-application video:
+mobile application video:
 
 [![gg](http://img.youtube.com/vi/cAd8oeLMZrY/0.jpg)](http://www.youtube.com/watch?v=cAd8oeLMZrY "flutter application")
